@@ -36,7 +36,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DeepNema7&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DeepNema7&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DeepNema7&layout=compact&theme=tokyonight)
 
 
 
