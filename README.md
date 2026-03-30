@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-DeepNema-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:deepnema7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-deepnema7@gmail.com-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
@@ -17,22 +17,34 @@
 - 🎓 B.Tech Student  
 - 🤖 Passionate about AI/ML & Data Analytics  
 - 📊 Building real-world projects  
-- 💡 Currently learning Python, Power BI, SQL  
+- 💡 Learning Python, Machine Learning & Power BI  
 
 ---
 
-## 🛠️ Languages and Tools
+## 🧠 AI/ML & Data Analyst Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,r,java,mysql,postgres,mongodb,git,github,vscode,linux" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel"/>
+  <img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Numpy-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepNema7&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepNema7&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
   <img src="https://streak-stats.demolab.com?user=DeepNema7&theme=tokyonight" height="150"/>
 </p>
 
@@ -49,7 +61,6 @@
 </p>
 
 ---
-
 
 ## 🔗 Connect With Me
 
