@@ -3,18 +3,16 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,java,js,react,nodejs,mysql,git,github,vscode,figma,powerbi" />
+  <img src="https://skillicons.dev/icons?i=anaconda,tenserflow,Jupyter,python,pandas,numpy,java,js,nodejs,mysql,git,github,vscode,figma,powerbi,claude," />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=AI%2FML+Enthusiast;Data+Analyst;Future+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=AI/ML+Enthusiast;Data+Analyst;Future+Engineer" />
 </p>
 
 
 <p align="center">
-  <a href="#">Portfolio</a> •
-  <a href="#">LinkedIn</a> •
-  <a href="#">Twitter</a>
+  <a href="https://www.linkedin.com/in/deep-nema-b38517335/">LinkedIn</a> •
 </p>
 
 ---
@@ -31,11 +29,9 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,mysql,git,github,vscode,figma,PowerBi,anaconda,claude,jupyter,tenserflow" />
 </p>
-
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -46,6 +42,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepNema7&layout=compact&theme=tokyonight" height="150"/>
 </p>
+
 
 ---
 
