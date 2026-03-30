@@ -32,11 +32,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepNema7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DeepNema7&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepNema7&layout=compact&theme=tokyonight)
+
 
 ---
 
