@@ -41,15 +41,11 @@
 
 ---
 
-## 📊 GitHub Stats 
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepNema7&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=DeepNema7&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepNema7&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepNema7&show_icons=true&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=DeepNema7&theme=tokyonight"/>
 </p>
 
 ---
