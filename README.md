@@ -32,17 +32,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepNema7&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepNema7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DeepNema7&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=DeepNema7&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepNema7&layout=compact&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepNema7&layout=compact&theme=tokyonight)
 
 ---
 
