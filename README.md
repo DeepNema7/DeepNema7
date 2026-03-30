@@ -7,7 +7,7 @@
 - 🎓 B.Tech Student  
 - 🤖 Passionate about AI/ML & Data Analytics  
 - 📊 Building real-world projects  
-- 💡 Learning Python, Machine Learning & Power BI  
+- 💡 Learning Java, Python, Machine Learning & Power BI  
 
 
 ## 🧠 AI/ML & Data Analyst Tools
