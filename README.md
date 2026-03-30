@@ -32,7 +32,7 @@
 
 ## 📊 GitHub Stats
 
-
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DeepNema7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DeepNema7&theme=tokyonight)
 
